@@ -73,7 +73,7 @@ split("\\.");
 * Si hay empate, selecciona el que tenga **mayor riesgo**
 * Retorna un `Stack<Maquina>` con las máquinas de ese grupo en orden **LIFO**
 
----
+---dsafasdf
 
 > Revisa los ejemplos de ejecución esperada (entradas/salidas para cada método) en 👉 [📄 MaquinaControllerEjemplos.md](MaquinaControllerEjemplos.md)
 
